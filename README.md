@@ -1,5 +1,5 @@
-# Anime-Recomendations
-Personal Anime Recomendation system
+# Anime-Recommendations
+Personal Anime Recommendation system
 
 This repo contains 2 Notebooks:
 
