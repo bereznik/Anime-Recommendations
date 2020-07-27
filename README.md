@@ -11,7 +11,8 @@ So... Why make an Anime Recommender?
 It was just a normal day and I had just finished watching an amazing show. So I thought to myself, I really want to find more shows like this and talk with my friends about them!
 The easiest way would just be looking online for reviews but... **that wouldn't be much fun, would it?** That was the time this project was born. By combining both the power of **Data** and my admiration for **great Animations**, I managed to make the final recommendation algorithm!
 
-The original datasets used in this project can be found in the following link: https://www.kaggle.com/CooperUnion/anime-recommendations-database \
+The original datasets used in this project can be found in the following link: https://www.kaggle.com/CooperUnion/anime-recommendations-database
+
 The Gradient Descent calculations took a really long time to be processed, so in case you would like to use the algorithm, I'll link a google drive folder with all 
 the files you will need to run the algorithm and get your own Anime Recommendations! https://drive.google.com/drive/folders/1hNFJiU0ySidRAw3ayDrG1PAzVTs574QN?usp=sharing
 
