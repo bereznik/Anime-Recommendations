@@ -14,7 +14,7 @@ The easiest way would just be looking online for reviews but... **that wouldn't 
 The original datasets used in this project can be found in the following link: https://www.kaggle.com/CooperUnion/anime-recommendations-database
 
 The Gradient Descent calculations took a really long time to be processed, so in case you would like to use the algorithm, I'll link a google drive folder with all 
-the files you will need to run the algorithm and get your own Anime Recommendations! https://drive.google.com/drive/folders/1hNFJiU0ySidRAw3ayDrG1PAzVTs574QN?usp=sharing
+the files you will need to run the program and get your own Anime Recommendations! https://drive.google.com/drive/folders/1hNFJiU0ySidRAw3ayDrG1PAzVTs574QN?usp=sharing
 
 ### Thanks a lot for your time checking my work, I hope you'll enjoy it! Feel free to contact me if you think there is something wrong or that could have been made better! 
 
